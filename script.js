@@ -8,7 +8,17 @@ const produtos = [
     plataforma: "mercado",
     link: "https://mercadolivre.com/sec/2vYZZzW",
     imagem: "https://raw.githubusercontent.com/ClaudemirX1/Afiliado/refs/heads/main/Produtos/mercadolivre/a16.webp"
+  },
+  {
+    nome: "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta",
+    descricao: "Transforme a limpeza em uma tarefa simples e sem esforço com a nossa Lavadora Jato Portátil de Alta Pressão.",
+    preco: "R$ 108,59",
+    categoria: "acessorios",
+    plataforma: "mercado",
+    link: "https://mercadolivre.com/sec/2VKS4qH",
+    imagem: "https://raw.githubusercontent.com/ClaudemirX1/Afiliado/refs/heads/main/Produtos/mercadolivre/lavadora.webp"
   }
+  
 ];
 
 const container = document.getElementById("produtos");
