@@ -7,7 +7,7 @@ const produtos = [
     categoria: "eletronicos",
     plataforma: "mercado",
     link: "https://mercadolivre.com/sec/2vYZZzW",
-    imagem: "https://http2.mlstatic.com/D_NQ_NP_707658-MLA96866257617_102025-O.webp"
+    imagem: "https://raw.githubusercontent.com/ClaudemirX1/Afiliado/refs/heads/main/Produtos/mercadolivre/a16.webp"
   }
 ];
 
