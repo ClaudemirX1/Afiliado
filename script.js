@@ -26,6 +26,15 @@ const produtos = [
     plataforma: "shopee",
     link: "https://s.shopee.com.br/5L67ihEWTO",
     imagem: "https://raw.githubusercontent.com/ClaudemirX1/Afiliado/refs/heads/main/Produtos/mercadolivre/br-11134207-7r98o-ltxyui9rvtec1c.webp"
+  },
+  {
+    nome: "Mini compressor de ar Portatil",
+    descricao: "Bomba compressor de ar portatil digital superpotente com lanterna,recarregavel bivolt.",
+    preco: "R$ 69,88",
+    categoria: "acessorios",
+    plataforma: "shopee",
+    link: "https://s.shopee.com.br/3B1dBQlVZz",
+    imagem: "https://raw.githubusercontent.com/ClaudemirX1/Afiliado/refs/heads/main/Produtos/shoppe/commpreesor.jpg"
   }
 ];
 
