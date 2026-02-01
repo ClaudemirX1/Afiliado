@@ -17,8 +17,16 @@ const produtos = [
     plataforma: "mercado",
     link: "https://mercadolivre.com/sec/2VKS4qH",
     imagem: "https://raw.githubusercontent.com/ClaudemirX1/Afiliado/refs/heads/main/Produtos/mercadolivre/lavadora.webp"
+  },
+  {
+    nome: "Smartwatch Série IWO 8 T800 Ultra",
+    descricao: "Monitor cardíaco, oxímetro, modos esportivos, assistente de voz, monitor de sono e música BT.",
+    preco: "R$ 39,90",
+    categoria: "eletronicos",
+    plataforma: "shopee",
+    link: "https://s.shopee.com.br/5L67ihEWTO",
+    imagem: "https://raw.githubusercontent.com/ClaudemirX1/Afiliado/refs/heads/main/Produtos/mercadolivre/br-11134207-7r98o-ltxyui9rvtec1c.webp"
   }
-  
 ];
 
 const container = document.getElementById("produtos");
